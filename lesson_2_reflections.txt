@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository, it creates a version of it that is compatible with storing historical meta-data through git. You need to do it so you can begin using the repository with git.
